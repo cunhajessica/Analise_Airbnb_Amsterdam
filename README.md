@@ -9,7 +9,7 @@
 Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal Inside Airbnb, é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de Data Science.
 Neste projeto foi utilizado os dados da cidade de Amsterdam para a análise exploratória, com o objetivo de auxiliar viajantes que desejam se hospedar na cidade.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Projeto completo](https://github.com/cunhajessica/Analise_Airbnb_Amsterdam/blob/main/Amsterdam_Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
