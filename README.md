@@ -12,6 +12,7 @@ Neste projeto foi utilizado os dados da cidade de Amsterdam para a análise expl
 [Projeto completo](https://colab.research.google.com/github/cunhajessica/Analise_Airbnb_Amsterdam/blob/main/Amsterdam_Analisando_os_Dados_do_Airbnb.ipynb)
 
 **Links:**
+* [Artigo do Projeto no Medium:](https://medium.com/p/bbb6f78c3169)
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-cunha/)
 
 
